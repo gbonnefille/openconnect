@@ -57,3 +57,7 @@ override_dh_autoreconf_clean:
 	done
 	[ ! -f version.c.debian-backup ] || mv version.c.debian-backup version.c
 	[ ! -f version.c.debian-clean ] || rm -f version.c.debian-clean version.c
+
+override_dh_auto_test:
+
+

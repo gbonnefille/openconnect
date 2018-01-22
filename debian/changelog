@@ -1,4 +1,4 @@
-openconnect (7.08-1ubuntu1) UNRELEASED; urgency=medium
+openconnect (7.08-1+lopin2) UNRELEASED; urgency=medium
 
   * used forked source code supporting GlobalProtect
 
