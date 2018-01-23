@@ -1,6 +1,6 @@
 # OpenConnect with PAN GlobalProtect support
 
-[![Build Status](https://api.travis-ci.org/dlenski/openconnect.png)](https://travis-ci.org/dlenski/openconnect)
+This is fork of https://github.com/dlenski/openconnect for DEB package builds for Ubuntu PPA available on https://launchpad.net/~lopin/+archive/ubuntu/openconnect-globalprotect
 
 # Table of Contents
 
