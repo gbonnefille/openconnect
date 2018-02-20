@@ -26,3 +26,4 @@ script: ./autogen.sh &&
         make VERBOSE=1 version.c &&
         make &&
         make VERBOSE=1 -j4 check
+        fakeroot debian/rules build
